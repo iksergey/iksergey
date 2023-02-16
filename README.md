@@ -31,6 +31,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![](https://gist.github.com/bgoonz/435f42a8617fbb854418d84a097073c8)
+![](https://shields.io)
 
 
 ## 🤝 Connect with me
