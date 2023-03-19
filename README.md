@@ -1,4 +1,8 @@
-# 👋 Hi there! I'm Sergei
+[![Typing](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=👋+Hi+there!+I'm+Sergei!+%20🙏🏻)](http://ksergey.ru)
+
+
+
+
 
 ## 🛠
 
@@ -12,9 +16,8 @@
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![azure](https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white)
+
 ![bitbucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)
-![c](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![k8s](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![html](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -27,9 +30,7 @@
 ![conda](https://img.shields.io/badge/conda%20-%2342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![openstreetmap](https://img.shields.io/badge/OSM-%237EBC6F.svg?&style=for-the-badge&logo=openstreetmap&logoColor=white)
 ![raspberry pi](https://img.shields.io/badge/RASPBERRY%20PI-%23C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white) 
-![xbox](https://img.shields.io/badge/xbox%20-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
 ![](https://gist.github.com/bgoonz/435f42a8617fbb854418d84a097073c8)
 ![](https://shields.io)
 
