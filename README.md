@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=iksergey&style=for-the-badge" alt="" align="right">
+![](https://komarev.com/ghpvc/?username=iksergey&style=for-the-badge)
 
 [![Typing](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=👋+Hi+there!+I'm+Sergei!+%20🙏)](http://ksergey.ru)
 
