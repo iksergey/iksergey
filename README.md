@@ -3,7 +3,9 @@
 [![Typing](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=👋+Hi+there!+I'm+Sergei!+%20🙏)](http://ksergey.ru)
 
 
-## 🛠
+<details>
+<summary>🛠 Technologies I Work With</summary>
+
 
 ![csharp](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
@@ -32,6 +34,7 @@
 ![](https://gist.github.com/bgoonz/435f42a8617fbb854418d84a097073c8)
 ![](https://shields.io)
 
+</details>
 
 ## 🤝 Connect with me
 
