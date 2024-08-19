@@ -40,5 +40,5 @@
 
 [![i@ksergey.ru](https://img.shields.io/badge/i@ksergey.ru%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:i@ksergey.ru)
 [![iksergeyru](https://img.shields.io/badge/@iksergeyru-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iksergeyru)
-[![ksergeyru](https://img.shields.io/badge/@ksergeyru-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ksergeyru)
+[![ksergeyru](https://img.shields.io/badge/@ksergeyru-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iksergey)
 [![youtube](https://img.shields.io/badge/@iksergeyru%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@iksergeyru/videos)
